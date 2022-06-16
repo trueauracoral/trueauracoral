@@ -1,4 +1,12 @@
-### Hi there 👋
+### TrueAuraCoral
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trueauracoral&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Also available on:
+- https://codeberg.org/zortazert
+- https://notabug.org/trueauracoral
+
+I more active on those.
 
 <!--
 **trueauracoral/trueauracoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
