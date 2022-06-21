@@ -1,7 +1,7 @@
 ### TrueAuraCoral
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trueauracoral&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![TAC's GitHub stats](https://github-readme-stats.vercel.app/api?username=trueauracoral)](https://github.com/anuraghazra/github-readme-stats)
 Also available on:
 - https://codeberg.org/zortazert
 - https://notabug.org/trueauracoral
